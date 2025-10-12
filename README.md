@@ -1,4 +1,4 @@
-# Movie App
+# Your_TV
 
 A modern movie search and discovery web application built with React and Vite. Instantly search for movies, view trending titles, and enjoy a smooth, responsive user experience.
 
